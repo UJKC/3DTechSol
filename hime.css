@@ -1,0 +1,143 @@
+body
+{
+    background-image: url('pexels-rodion-kutsaiev-7897470.jpg');
+    background-repeat: no-repeat;
+}
+
+.light
+{
+    background-color: #fca6c3;
+    padding: 20px;
+    width: 500px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 100px;
+}
+
+.txt
+{
+    margin-top: 53px;
+    font-size:26px;
+    width:365px;
+    text-align: center;
+}
+
+.tnt
+{
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.dark
+{
+    background-color: #00c4c4;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 94px;
+    color: white;
+    width: 700px;;
+}
+
+.back
+{
+    background-color: #ebeff4;
+}
+
+.blue
+{
+    background-color: white;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(15, 9, 123);
+    width: 400px;
+    margin-left: 106px;
+    margin-bottom: 100px;
+}
+
+.db
+{
+    background-color: #333381;
+    padding: 20px;
+    width: 700px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 100px;
+    color: white;
+}
+
+.space
+{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 45px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 50px;
+    width: 300px;
+    text-align: center;
+}
+
+footer
+{
+background-color:black;
+color:white;
+border-radius:50px;
+margin-top:129px;
+}
+
+.dim
+{
+padding:10px;
+padding-left:185px;
+padding-right:185px;
+border-radius:50px;
+}
+
+nav
+{
+color:white;
+background-color:black;
+margin-top:35px;
+ margin-left:147px;
+ margin-right:116px;
+border-radius:50px;
+margin-bottom:35px;
+padding-right:30px;
+text-align:center;
+}
+
+.dit
+{
+border-right:1px solid white;
+border-radius:50px;
+padding:10px;
+padding-left:80px;
+padding-right:80px;
+text-align:center;
+}
+
+.dit:hover
+{
+border:1px solid black;
+}
+
+.dil:hover
+{
+border:1px solid black;
+border-radius:50px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
